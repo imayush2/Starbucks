@@ -40,7 +40,7 @@ const Products = () => {
             <img
               src={item.image}
               alt={item.label}
-              className="w-24 h-24 object-cover rounded-full border-2 border-gray-300"
+              className="w-24 h-24 object-cover rounded-full border-2 border-gray-300 hover:border-green-800 transition duration-300"
             />
             <p className="text-sm text-center mt-2">{item.label}</p>
           </div>
