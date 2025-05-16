@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const LearnMore = () => {
   return (
     <div className="bg-[#edebe9] mt-10 p-6 rounded-lg shadow-md">
@@ -7,9 +9,12 @@ const LearnMore = () => {
           Learn more about the world of coffee!
         </h2>
 
-        <div className="text-green-800 mr-5 mt-3 font-semibold text-sm ">
+        <Link
+          to="/discover"
+          className="text-green-800 mr-5 mt-3 font-semibold text-sm cursor-pointer"
+        >
           Discover more
-        </div>
+        </Link>
       </div>
 
       {/* Image with Text Overlay */}
