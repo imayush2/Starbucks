@@ -4,7 +4,7 @@ export const carouselData2 = [
       "https://preprodtsbstorage.blob.core.windows.net/cms/uploads/ICW_Live_Event_Day7_f6e81a27fe.jpg",
     heading: "Pinnacle of Barista Craft",
     icon: "https://preprodtsbstorage.blob.core.windows.net/cms/uploads/barista_avatar_day_7_ahmed_c0c00a5ee0.jpg",
-    name: "Ahemad Wajid.6 min",
+    name: "Ahemad Wajid 6 min",
   },
   {
     image:
@@ -24,14 +24,14 @@ export const carouselData2 = [
     image:
       "https://preprodtsbstorage.blob.core.windows.net/cms/uploads/ICW_Live_Event_Day3_f6f2374407.jpg",
     heading: "Geography is Flavour",
-    icon: "https://preprodtsbstorage.blob.core.windows.net/cms/uploads/barista_avatar_day_7_ahmed_c0c00a5ee0.jpg",
+    icon: "https://preprodtsbstorage.blob.core.windows.net/cms/uploads/barista_avatar_day_3_79931959b5.jpg",
     name: "Murmey Sambrekar 5min",
   },
   {
     image:
       "https://preprodtsbstorage.blob.core.windows.net/cms/uploads/Women_Day_banner_v2_c04e8d083e.jpg",
     heading: "Celebrating Sumantra Coffe and Gender Diversity at Starbucks",
-    icon: "https://preprodtsbstorage.blob.core.windows.net/cms/uploads/barista_avatar_day_7_ahmed_c0c00a5ee0.jpg",
+    icon: "https://preprodtsbstorage.blob.core.windows.net/cms/uploads/TSB_LOGO_3x_1_5bbd6dd955.png",
     name: "StarBucks 4 min",
   },
 ];

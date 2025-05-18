@@ -11,7 +11,7 @@ const LearnMore = () => {
 
         <Link
           to="/discover"
-          className="text-green-800 mr-5 mt-3 font-semibold text-sm cursor-pointer"
+          className="text-green-800 mr-5 mt-3 font-semibold text-xs cursor-pointer"
         >
           Discover more
         </Link>

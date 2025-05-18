@@ -4,7 +4,7 @@ const Reward = () => {
       <p className="text-white text-2xl ml-10 md:text-base ">
         Starbucks Reward
       </p>
-      <button className="bg-transparent border mr-20 border-white text-white px-2.5 py-1 rounded-full text-xs hover:bg-gray-100">
+      <button className="bg-transparent border mr-20 border-white text-white px-2.5 py-1 rounded-full text-xs ">
         Know More
       </button>
     </div>

@@ -37,10 +37,10 @@ const Recommand = () => {
 
         <div className="flex justify-between">
           {/* Price */}
-          <p className="text-sm text-gray-600 font-bold mb-4">&#8377;499.00</p>
+          <p className="text-[12px] font-semibold mb-4">&#8377;499.00</p>
 
           {/* Add Item Button */}
-          <button className="bg-green-800 text-white text-[10px] px-5 py-[1px]  rounded-full hover:bg-green-900  shadow-xl">
+          <button className="bg-green-800 text-white h-[30px] text-[10px] px-5 py-0.5   rounded-full hover:bg-green-900  shadow-xl">
             Add Item
           </button>
         </div>
